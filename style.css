@@ -1,0 +1,169 @@
+
+a{
+    text-decoration:none;
+}
+
+
+.head1{
+    background-color:rgb(167, 167, 66);
+   
+}
+
+
+.marquee1{
+    background-color:black;
+    color:rgb(71, 244, 14);
+}
+
+
+.contact{
+    text-align: center;
+    color:brown;
+}
+
+
+
+.tr1{
+    height:10px;
+}
+
+
+.inpbody{
+    background-color: rgb(210, 172, 126);
+}
+
+
+
+
+.box1{
+    background-color:yellowgreen;
+color:red;
+width:60px;
+height:80px;
+
+border:3px dotted rgb(242, 4, 171);
+border-radius:10px;
+margin:auto;
+
+}
+
+
+.box2{
+background-color: blue;
+color: rgb(239, 156, 13);
+height: 60px;
+width: 140px;
+
+
+font-family: segoe UI;
+margin-left: 250px;
+
+padding: 10px;
+text-align:center;
+border: 4px double red;
+
+
+
+}
+
+.con-title1{
+    font-size:30px;
+    font-family: times;
+  
+background-color:rgb(57, 22, 147);
+   text-align:center;
+color:greenyellow;
+
+margin: 20px;
+
+margin-bottom: 35px;
+
+box-sizing:border-box;
+
+}
+
+.container{
+    background-color:rgb(239, 156, 13);
+    height:350px;
+    width:400px;
+
+margin-top:50px;
+margin:auto;
+
+border: 6px double lightseagreen;
+border-radius:9px;
+
+box-sizing: border-box;
+
+}
+
+
+
+.con-lead{
+    padding:6px;
+ width: 250px;
+
+ margin-left:40px;
+ background-color:rgb(15, 15, 14);
+ 
+color: rgb(245, 19, 223);
+border-radius: 4px;
+
+margin-bottom: 10px;
+
+
+
+box-sizing: border-box;
+}
+
+.con-lead2{
+    font-family: tahoma;
+
+margin-bottom: 10px;
+
+    font-size: 11px;
+width:220px;
+padding: 8px;
+margin-left:15px;
+
+color:rgb(55, 211, 24);
+
+}
+
+.con-submit{
+    margin-left: 150px;
+
+padding: 10px;
+background-color: rgb(255, 0, 230);
+
+}
+
+
+
+.box-body{
+    background-color:bisque;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
